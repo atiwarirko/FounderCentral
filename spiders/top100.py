@@ -1,6 +1,6 @@
 import scrapy
 from scrapy_playwright.page import PageMethod
-
+#Changes done here
 
 class AmazonBestSellerSpider(scrapy.Spider):
     name = "amazon_bs"
